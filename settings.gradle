@@ -1,0 +1,2 @@
+include ':app'
+include ':artemis_lib'
